@@ -1,7 +1,8 @@
-def naming_system
+def HoH
+  naming_system =
   {:wahtever => "something"}
   
-  wahtever
+  naming_system
   
 end
   # Build a nested HoH of the classification of biological life on Earth based
