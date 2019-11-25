@@ -1,6 +1,6 @@
 def HoH
   naming_system =
-  {whatever: "something"}
+  {naming_system: "something"}
   
   naming_system
   
