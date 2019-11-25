@@ -1,6 +1,8 @@
 def HoH
-  naming_system =
-  {naming_system: "something"}
+  naming_system ={
+    assignment: "something",
+    coding: {
+  }
   
   
 end
