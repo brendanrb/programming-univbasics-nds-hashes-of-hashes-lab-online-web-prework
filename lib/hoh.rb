@@ -1,6 +1,6 @@
 def HoH
   naming_system =
-  {:wahtever => "something"}
+  {whatever: "something"}
   
   naming_system
   
